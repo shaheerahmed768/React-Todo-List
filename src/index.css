@@ -1,0 +1,70 @@
+/* .App {
+  text-align: center;
+  background: linear-gradient(to right bottom, darkslateblue,royalblue);
+  width: 100%;
+  min-height: 100vh; 
+  min-width: 450px;
+  min-height: 650px;
+  padding: 30px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  box-shadow: 3px 6px 40px #000;
+  margin-bottom: 10px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+  color: #fff;
+  text-align: center;
+  margin: 30px 0;
+}
+
+input {
+  outline: none;
+  width: 260px;
+  padding: 15px;
+  margin-right: 25px;
+  font-size: 20px;
+  color: #ccc;
+  background-color: rgba(0,0,0,0.3);
+  border: 1px solid darkslateblue;
+  border-radius: 10px;
+}
+
+.add-button{
+  width: 70px;
+  padding: 15px 15px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 0;
+  background-color: royalblue;
+  cursor: pointer;
+}
+
+ul{
+  list-style: none;
+  
+}
+
+li{
+  margin: 12px 243px;
+  outline: none;
+  width: 260px;
+  padding: 15px;
+  margin-right: 25px;
+  font-size: 20px;
+  color: #ccc;
+  background-color: rgba(0,0,0,0.3);
+  border: 1px solid darkslateblue;
+  border-radius: 10px;
+}
+
+.delete-button{
+  font-size: 10px;
+  margin-left: 8px;
+  border: none;
+  color: #fff;
+  border-radius: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+} */
